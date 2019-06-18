@@ -42,6 +42,8 @@ namespace ProgramaEx
                  {
                      Console.WriteLine("Ingrese la temperatura máxima");
                      tempMaxDelDia = Convert.ToInt32(Console.ReadLine()); 
+                     tempMaxDelDiaAnt = tempMaxDelDia;
+                     tempMinDelDiaAnt = tempMaxDelDia;  
 
                       if (tempMaxDelDia > tempMaxDelDiaAnt)
                           {

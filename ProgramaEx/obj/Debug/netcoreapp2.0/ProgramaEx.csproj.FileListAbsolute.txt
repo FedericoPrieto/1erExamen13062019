@@ -18,3 +18,4 @@ C:\Examen\1erExamen13062019\ProgramaEx\obj\Debug\netcoreapp2.0\ProgramaEx.Assemb
 C:\Examen\1erExamen13062019\ProgramaEx\obj\Debug\netcoreapp2.0\ProgramaEx.AssemblyInfo.cs
 C:\Examen\1erExamen13062019\ProgramaEx\obj\Debug\netcoreapp2.0\ProgramaEx.dll
 C:\Examen\1erExamen13062019\ProgramaEx\obj\Debug\netcoreapp2.0\ProgramaEx.pdb
+C:\Examen\1erExamen13062019\ProgramaEx\obj\Debug\netcoreapp2.0\ProgramaEx.csprojAssemblyReference.cache
