@@ -33,8 +33,8 @@ namespace ProgramaEx
              int diaMenorTemp = 1; 
              int promedioTemp = 1;
              int tempMaxDelDia  = 0; 
-             int tempMaxDelDiaAnt  = 0; 
-             int tempMinDelDiaAnt  = 0; 
+             int tempMaxDelDiaAnt = Int32.MinValue ;  
+             int tempMinDelDiaAnt = Int32.MaxValue;  
              int sumaTemperaturas = 0; 
 
              //Acá ingreso la temperatura de 7 días
@@ -42,8 +42,6 @@ namespace ProgramaEx
                  {
                      Console.WriteLine("Ingrese la temperatura máxima");
                      tempMaxDelDia = Convert.ToInt32(Console.ReadLine()); 
-                     tempMaxDelDiaAnt = tempMaxDelDia;
-                     tempMinDelDiaAnt = tempMaxDelDia;  
 
                       if (tempMaxDelDia > tempMaxDelDiaAnt)
                           {

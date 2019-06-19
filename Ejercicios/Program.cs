@@ -34,7 +34,7 @@ namespace Ejercicios
             //the same backward and forward.
 
 
-            
+
             //
             //Ejercicio 10
             //This is a demo task.
