@@ -1,0 +1,10 @@
+C:\001\1erExamen13062019\ejercicios\bin\Debug\netcoreapp2.0\Ejercicios.deps.json
+C:\001\1erExamen13062019\ejercicios\bin\Debug\netcoreapp2.0\Ejercicios.runtimeconfig.json
+C:\001\1erExamen13062019\ejercicios\bin\Debug\netcoreapp2.0\Ejercicios.runtimeconfig.dev.json
+C:\001\1erExamen13062019\ejercicios\bin\Debug\netcoreapp2.0\Ejercicios.dll
+C:\001\1erExamen13062019\ejercicios\bin\Debug\netcoreapp2.0\Ejercicios.pdb
+C:\001\1erExamen13062019\ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\001\1erExamen13062019\ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.AssemblyInfoInputs.cache
+C:\001\1erExamen13062019\ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.AssemblyInfo.cs
+C:\001\1erExamen13062019\ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.dll
+C:\001\1erExamen13062019\ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.pdb
