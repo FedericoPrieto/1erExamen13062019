@@ -664,30 +664,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\FEDERICO\\.nuget\\packages\\": {},
+    "C:\\Users\\Java\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\001\\1erExamen13062019\\ProgramaEx\\ProgramaEx.csproj",
+      "projectUniqueName": "c:\\Examen\\1erExamen13062019\\ProgramaEx\\ProgramaEx.csproj",
       "projectName": "ProgramaEx",
-      "projectPath": "c:\\001\\1erExamen13062019\\ProgramaEx\\ProgramaEx.csproj",
-      "packagesPath": "C:\\Users\\FEDERICO\\.nuget\\packages\\",
-      "outputPath": "c:\\001\\1erExamen13062019\\ProgramaEx\\obj\\",
+      "projectPath": "c:\\Examen\\1erExamen13062019\\ProgramaEx\\ProgramaEx.csproj",
+      "packagesPath": "C:\\Users\\Java\\.nuget\\packages\\",
+      "outputPath": "c:\\Examen\\1erExamen13062019\\ProgramaEx\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\FEDERICO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Java\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -705,6 +703,7 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true

@@ -8,3 +8,14 @@ C:\001\1erExamen13062019\ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.AssemblyI
 C:\001\1erExamen13062019\ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.AssemblyInfo.cs
 C:\001\1erExamen13062019\ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.dll
 C:\001\1erExamen13062019\ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.pdb
+C:\Examen\1erExamen13062019\Ejercicios\bin\Debug\netcoreapp2.0\Ejercicios.deps.json
+C:\Examen\1erExamen13062019\Ejercicios\bin\Debug\netcoreapp2.0\Ejercicios.runtimeconfig.json
+C:\Examen\1erExamen13062019\Ejercicios\bin\Debug\netcoreapp2.0\Ejercicios.runtimeconfig.dev.json
+C:\Examen\1erExamen13062019\Ejercicios\bin\Debug\netcoreapp2.0\Ejercicios.dll
+C:\Examen\1erExamen13062019\Ejercicios\bin\Debug\netcoreapp2.0\Ejercicios.pdb
+C:\Examen\1erExamen13062019\Ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.csprojAssemblyReference.cache
+C:\Examen\1erExamen13062019\Ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Examen\1erExamen13062019\Ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Examen\1erExamen13062019\Ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.AssemblyInfo.cs
+C:\Examen\1erExamen13062019\Ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.dll
+C:\Examen\1erExamen13062019\Ejercicios\obj\Debug\netcoreapp2.0\Ejercicios.pdb
